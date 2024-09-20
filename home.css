@@ -12,3 +12,11 @@ body{
     margin-top: 100px;
     font-size: 70px;
 }
+
+.RecipeList{
+    font-size: 50px;
+    color: burlywood;
+    word-spacing: 10px;
+    margin-top: 70px;
+    
+}
