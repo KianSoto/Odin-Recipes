@@ -14,14 +14,7 @@ body{
     font-size: 70px;
 }
 
-.ChickenDescription{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    margin-top: 60px;
-    font-size: 30px;
-}
-
-.ChickenIngredients{
+.ChickenHighlight{
     font-family:'Times New Roman', Times, serif;
     color: black;
     margin-top: 60px;
@@ -42,4 +35,19 @@ body{
     font-family:'Times New Roman', Times, serif;
     color: black;
     font-size: 20px;
+}
+
+.StepsHead{
+    font-size: 20px;
+}
+
+.StepsDes{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+}
+
+.StepsList{
+    margin-left: 345px;
+    margin-inline-end:250px;
 }
