@@ -7,47 +7,42 @@ body{
     
 }
 
-.ChickenTitle{
+.ChickenTitle,
+.ChickenHighlight,
+.ChickenLine,
+.IngredientsDes,
+.StepsDes{
     font-family: 'Times New Roman', serif;
+}
+
+.ChickenTitle{
     color: burlywood;
     margin-top: 100px;
     font-size: 70px;
 }
 
-.ChickenHighlight{
-    font-family:'Times New Roman', Times, serif;
+.ChickenHighlight,
+.ChickenLine,
+.IngredientsDes,
+.StepsDes{
     color: black;
+}
+
+.ChickenHighlight{
     margin-top: 60px;
     font-size: 30px;
 }
 
-.ChickenLine{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    font-size: 20px;
-}
-
-.IngredientsHead{
-    font-size: 20px;
-}
-
-.IngredientsDes{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    font-size: 20px;
-}
-
-.StepsHead{
-    font-size: 20px;
-}
-
-.StepsDes{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
+.ChickenLine,
+.IngredientsHead,
+.IngredientsDes,
+.StepsHead,
+.StepsDes
+{
     font-size: 20px;
 }
 
 .StepsList{
-    margin-left: 345px;
-    margin-inline-end:250px;
+    margin-left: 600px;
+    margin-inline-end:500px;
 }

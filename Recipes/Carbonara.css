@@ -7,45 +7,45 @@ body{
     
 }
 
+.CarbonaraHeader,
+.CarbonaraHighlights,
+.CarbonaraLine,
+.StepsList{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
 .CarbonaraHeader{
-    font-family: 'Times New Roman', serif;
     color: burlywood;
     margin-top: 100px;
     font-size: 70px;
 }
 
+.CarbonaraLine,
+.IngredientsHead,
+.StepsHead,
+.StepsDes{
+    font-size: 20px;
+}
+
 .CarbonaraHighlights{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
     margin-top: 60px;
     font-size: 30px;
 }
 
-.CarbonaraLine{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    font-size: 20px;
-}
 
 .IngredientsHead{
-    font-size: 20px;
     margin-left: 90px;
     line-height: 40px;
     margin-top: 10px;
 }
 
 .StepsHead{
-    font-size: 20px;
     margin-left: 25px;
 }
 
-.StepsDes{
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    font-size: 20px;
-}
 
 .StepsList{
-    margin-left: 345px;
-    margin-inline-end:250px;
+    margin-left: 600px;
+    margin-inline-end:500px;
 }

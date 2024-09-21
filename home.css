@@ -1,26 +1,36 @@
-body{
+body,
+#wholelist{
     justify-content: center;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: dimgrey;
+    background-color: rgba(220, 220, 220, 0.904);
+
 }
 
-.HomeTitle{
+#HomeTitle,
+.RecipeList{
     font-family: 'Times New Roman', serif;
-    color: burlywood;
-    margin-top: 100px;
+    color: rgb(104, 81, 52);
     font-size: 70px;
+    
 }
 
 .RecipeList{
     font-size: 50px;
-    color: burlywood;
     word-spacing: 10px;
-    margin-top: 70px;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: 50px;
+    text-align: center;
+}
+
+.buttons{
+    background-color: transparent;
+    border-radius: 10px;
+    border-color:rgb(104, 81, 52);
+    margin-block: 15px;
+}
+
+#wholelist{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(104, 81, 52);
 }
